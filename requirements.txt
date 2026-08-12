@@ -3,5 +3,4 @@ langchain-text-splitters
 langchain-groq
 streamlit
 python-dotenv
-pypdf
 PyPDF2
