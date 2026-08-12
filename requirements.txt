@@ -1,9 +1,7 @@
-langchain
-langchain-community
+langchain-core
 langchain-text-splitters
+langchain-groq
 streamlit
 python-dotenv
 pypdf
-langchain-groq
-langchain-core
 PyPDF2
