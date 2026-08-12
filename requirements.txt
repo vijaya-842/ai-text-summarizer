@@ -1,6 +1,5 @@
 langchain
 langchain-community
-langchain-ollama
 langchain-text-splitters
 streamlit
 python-dotenv
@@ -8,6 +7,3 @@ pypdf
 langchain-groq
 langchain-core
 PyPDF2
-sentence-transformers
-faiss-cpu
-rank-bm25
