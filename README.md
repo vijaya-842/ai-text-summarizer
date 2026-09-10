@@ -142,7 +142,7 @@ Deployed on **Streamlit Cloud** with Groq API key stored securely in Streamlit S
 
 **Vijaya Lakshmi Atluri**
 - GitHub: [@vijaya-842](https://github.com/vijaya-842)
-- LinkedIn: [https://www.linkedin.com/in/vijaya-atluri/]
+- LinkedIn: https://www.linkedin.com/in/vijaya-atluri/
 
 ---
 
